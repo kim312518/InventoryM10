@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryM01", "InventoryM01\InventoryM01.csproj", "{D2E000CD-0FF4-49F2-A10C-7398D8A54A2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainLayer", "DomainLayer\DomainLayer.csproj", "{A25C2998-C027-4D7A-B539-5F39C9ECD942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E000CD-0FF4-49F2-A10C-7398D8A54A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E000CD-0FF4-49F2-A10C-7398D8A54A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E000CD-0FF4-49F2-A10C-7398D8A54A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E000CD-0FF4-49F2-A10C-7398D8A54A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A25C2998-C027-4D7A-B539-5F39C9ECD942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25C2998-C027-4D7A-B539-5F39C9ECD942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25C2998-C027-4D7A-B539-5F39C9ECD942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25C2998-C027-4D7A-B539-5F39C9ECD942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {725EE3D8-DD15-4003-9E2F-A51C261316CB}
+	EndGlobalSection
+EndGlobal

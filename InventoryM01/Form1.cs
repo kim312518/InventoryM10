@@ -26,8 +26,8 @@ namespace InventoryM01
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var mainPage = new Mainpage();
-            mainPage.ShowDialog();
+            var home = new Mainpage();
+            home.ShowDialog();
         }
     }
 }
